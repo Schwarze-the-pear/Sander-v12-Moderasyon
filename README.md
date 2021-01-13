@@ -1,2 +1,3 @@
 # Sander-v12-Moderasyon
-Sander v12 moderasyon botu
+Sander V12 moderasyon botu çalmayınız.Ben Başka bir kişiden alarak altyapıyı değiştirdim çalmayın amk.
+
